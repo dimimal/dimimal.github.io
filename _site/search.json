@@ -44,7 +44,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Home",
+    "title": "Dimitrios Mallios",
     "section": "",
     "text": "This is the Home Page about my personal details, thoughts, blogs and notes about AI Engineering."
   },
@@ -54,5 +54,12 @@
     "title": "Publications",
     "section": "",
     "text": "Publications\nA selection of my research publications:\n\nTitle 1. Author(s). Journal/Conference, Year. Link\nTitle 2. Author(s). Journal/Conference, Year. Link\nTitle 3. Author(s). Journal/Conference, Year. Link\n\nAdd your publications here."
+  },
+  {
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "Notes",
+    "section": "",
+    "text": "No matching items"
   }
 ]

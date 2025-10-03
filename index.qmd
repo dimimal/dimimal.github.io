@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Dimitrios Mallios"
 ---
 
 <div style="text-align: center; margin-bottom: 1em;">

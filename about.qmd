@@ -1,12 +1,27 @@
 ---
 title: "About"
+title-block-style: none
+image: images/profile.jpg
+sidebar: false
+about:
+  template: trestles
+  links:
+    - icon: twitter-x
+      text: Twitter
+      href: https://x.com/dimi_Mall
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/dimitris-mallios/
+    - icon: github
+      text: Github
+      href: https://github.com/mlabonne
 ---
 
 <images src="images/profile.jpg" alt="Dimitrios Mallios" style="width:180px; border-radius:50%; margin-bottom:1em;">
 
 # Dimitrios Mallios
 
-Athens · Greece
+London - UK
 
 I am experienced in machine learning and deep learning with focus on Computer Vision. My research interests are object detection and segmentation.
 
