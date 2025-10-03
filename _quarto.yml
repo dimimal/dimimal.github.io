@@ -4,7 +4,7 @@ project:
 website:
   title: "Dimitrios Mallios"
   navbar:
-    logo: img/D-letter.png
+    logo: images/D-letter.png
     left:
       - href: index.qmd
         text: Home

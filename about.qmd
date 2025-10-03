@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-<img src="img/profile.jpg" alt="Dimitrios Mallios" style="width:180px; border-radius:50%; margin-bottom:1em;">
+<images src="images/profile.jpg" alt="Dimitrios Mallios" style="width:180px; border-radius:50%; margin-bottom:1em;">
 
 # Dimitrios Mallios
 
@@ -10,8 +10,8 @@ Athens · Greece
 
 I am experienced in machine learning and deep learning with focus on Computer Vision. My research interests are object detection and segmentation.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/dimitris-mallios/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/dimimal)
+[![LinkedIn](https://images.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/dimitris-mallios/)
+[![GitHub](https://images.shields.io/badge/GitHub-Profile-black)](https://github.com/dimimal)
 
 > "If we want machines to think, we need first to teach them how to see" — Fei-Fei Li
 
