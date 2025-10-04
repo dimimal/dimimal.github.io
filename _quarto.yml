@@ -4,6 +4,7 @@ project:
 
 website:
   title: ""
+  site-url: https://dimimal.github.io
   navbar:
     logo: images/D-letter.png
     left:
