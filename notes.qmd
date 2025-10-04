@@ -1,7 +1,7 @@
 ---
 title: "Notes"
 author: "Dimitrios Mallios"
-description: "."
+description: "TODO: Notes"
 listing:
   contents: notes
   sort: "date desc"
