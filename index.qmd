@@ -1,0 +1,9 @@
+---
+title: "Dimitrios Mallios"
+---
+
+<div style="text-align: center; margin-bottom: 1em;">
+  <images src="images/D-letter.png" alt="Logo" style="width: 100px; height: auto;">
+</div>
+
+This is the Home Page about my personal details, thoughts, blogs and notes about AI Engineering.

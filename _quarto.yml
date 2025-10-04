@@ -1,0 +1,28 @@
+project:
+  type: website
+
+website:
+  title: ""
+  navbar:
+    logo: images/D-letter.png
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: notes.qmd
+        text: Notes
+      - href: publications.qmd
+        text: Publications
+
+format:
+  html:
+    theme:
+      - flatly
+    css: styles.css
+    toc: true
+    # Custom color palette
+    # You can further customize in styles.css
+
+
+

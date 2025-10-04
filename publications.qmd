@@ -1,0 +1,13 @@
+---
+title: "Publications"
+---
+
+# Publications
+
+A selection of my research publications:
+
+- **Title 1**. Author(s). Journal/Conference, Year. [Link](#)
+- **Title 2**. Author(s). Journal/Conference, Year. [Link](#)
+- **Title 3**. Author(s). Journal/Conference, Year. [Link](#)
+
+*Add your publications here.*
