@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Publications\nA selection of my research publications:\n\nTitle 1. Author(s). Journal/Conference, Year. Link\nTitle 2. Author(s). Journal/Conference, Year. Link\nTitle 3. Author(s). Journal/Conference, Year. Link\n\nAdd your publications here."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dimitrios Mallios",
+    "section": "",
+    "text": "This is the Home Page about my personal details, thoughts, blogs and notes about AI Engineering."
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\nSoftware Development Intern\nNational Center of Scientific Research “Demokritos”\nJuly 2016 - Aug 2016\nImplementation of a software tool to process data from RGB-D camera mounted on a personal home assistant robot to analyze human behavior. Contributed video analysis software and integrated audio/laser modules. Part of the RADIO personal home assistant robot system."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nUniversity of Thessaly\n5 year Diploma (BSc & MSc combined - 300ECTS)\nElectrical, Electronics and Communications Engineering\nFocus: Machine Learning and Computer Vision\nGraduated with Very Good: 7.12/10.0\nJuly 2018"
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "About",
+    "section": "Skills",
+    "text": "Skills\nProgramming Languages & Tools: - Python, Qt, LATEX, Keras, Tensorflow, Bash, Matlab, Octave, ROS, CUDA, C, C++, Apache Spark, OpenMP, OpenCV\nApplied Knowledge: - Digital Signal Processing, Image Processing, Machine Learning, Deep Learning, Computer Vision, Artificial Intelligence, Statistics, Reinforcement Learning\nKnow how: - Robotics, High Performance Computing, Parallel & Cluster Computing, Big Data Technologies, Communication Systems"
+  },
+  {
+    "objectID": "about.html#interests",
+    "href": "about.html#interests",
+    "title": "About",
+    "section": "Interests",
+    "text": "Interests\nApart from being an AI enthusiast, I enjoy boxing and biking. In the winter, I travel abroad with good company. During warmer months in Athens, I enjoy driving to the coastline. Indoors, I watch movies, read books, and solve algorithmic riddles."
+  },
+  {
+    "objectID": "about.html#certifications",
+    "href": "about.html#certifications",
+    "title": "About",
+    "section": "Certifications",
+    "text": "Certifications\n\nGrow Greek Tourism Online - Google\nMachine Learning - Coursera\nNeural Networks for Machine Learning - Coursera\nThe Numpy Stack in Python - Udemy\nTaming Big Data with Apache Spark and Python - Udemy\nThe Ultimate Hands-On Hadoop - Udemy"
+  },
+  {
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "Notes",
+    "section": "",
+    "text": "No matching items"
+  }
+]
