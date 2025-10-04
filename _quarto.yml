@@ -3,7 +3,8 @@ project:
   output-dir: docs
 
 website:
-  title: ""
+  title: "Dimitrios Mallios"
+  description: "Dimitrio's Personal Website"
   site-url: https://dimimal.github.io
   navbar:
     logo: images/D-letter.png
