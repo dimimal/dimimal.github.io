@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://dimimal.github.io/publications.html</loc>
-    <lastmod>2025-10-08T10:42:34.931Z</lastmod>
+    <loc>https://dimimal.github.io/about.html</loc>
+    <lastmod>2025-10-08T10:53:44.836Z</lastmod>
   </url>
   <url>
     <loc>https://dimimal.github.io/index.html</loc>
-    <lastmod>2025-10-08T10:42:34.929Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dimimal.github.io/about.html</loc>
-    <lastmod>2025-10-08T10:42:34.856Z</lastmod>
+    <lastmod>2025-10-08T10:53:44.851Z</lastmod>
   </url>
   <url>
     <loc>https://dimimal.github.io/notes.html</loc>
-    <lastmod>2025-10-08T10:42:34.929Z</lastmod>
+    <lastmod>2025-10-08T10:53:44.851Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dimimal.github.io/publications.html</loc>
+    <lastmod>2025-10-08T10:53:44.851Z</lastmod>
   </url>
 </urlset>

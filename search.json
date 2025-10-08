@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Publications\nA selection of my research publications:\n\nTitle 1. Author(s). Journal/Conference, Year. Link\nTitle 2. Author(s). Journal/Conference, Year. Link\nTitle 3. Author(s). Journal/Conference, Year. Link\n\nAdd your publications here."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Dimitrios Mallios",
-    "section": "",
-    "text": "This is the Home Page about my personal details, thoughts, blogs and notes about AI Engineering."
-  },
-  {
     "objectID": "about.html#experience",
     "href": "about.html#experience",
     "title": "About",
@@ -49,10 +35,24 @@
     "text": "Certifications\n\nGrow Greek Tourism Online - Google\nMachine Learning - Coursera\nNeural Networks for Machine Learning - Coursera\nThe Numpy Stack in Python - Udemy\nTaming Big Data with Apache Spark and Python - Udemy\nThe Ultimate Hands-On Hadoop - Udemy"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dimitrios Mallios",
+    "section": "",
+    "text": "This is the Home Page about my personal details, thoughts, blogs and notes about AI Engineering."
+  },
+  {
     "objectID": "notes.html",
     "href": "notes.html",
     "title": "Notes",
     "section": "",
     "text": "No matching items"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Publications\nA selection of my research publications:\n\nTitle 1. Author(s). Journal/Conference, Year. Link\nTitle 2. Author(s). Journal/Conference, Year. Link\nTitle 3. Author(s). Journal/Conference, Year. Link\n\nAdd your publications here."
   }
 ]
