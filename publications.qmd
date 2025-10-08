@@ -4,10 +4,24 @@ title: "Publications"
 
 # Publications
 
-A selection of my research publications:
+## Journal Articles and Conference Papers
 
-- **Title 1**. Author(s). Journal/Conference, Year. [Link](#)
-- **Title 2**. Author(s). Journal/Conference, Year. [Link](#)
-- **Title 3**. Author(s). Journal/Conference, Year. [Link](#)
+1. **Vehicle Damage Severity Estimation for Insurance Operations Using In-the-Wild Mobile Images**  
+   D. Mallios, Li Xiaofei, N. McLaughlin, J. Martinez Del Rincon, C. Galbraith, R. Garland  
+   *IEEE Access, vol. 11, pp. 78644-78655, 2023*  
+   [View Publication](https://ieeexplore.ieee.org/abstract/document/10194904/) | 
+   [PDF](https://ieeexplore.ieee.org/iel7/6287639/6514899/10194904.pdf)
 
-*Add your publications here.*
+2. **Deep Rectum Segmentation for Image Guided Radiation Therapy with Synthetic Data**  
+   D. Mallios, X. Cai  
+   *29th European Signal Processing Conference (EUSIPCO), pp. 975-979, 2021*  
+   [View Publication](https://ieeexplore.ieee.org/abstract/document/9616115/) |
+   [PDF](https://eurasip.org/Proceedings/Eusipco/Eusipco2021/pdfs/0000975.pdf)
+   *Journal of Imaging, 2020*  
+   [View on Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0-RaorMAAAAJ&citation_for_view=0-RaorMAAAAJ:9yKSN-GCB0IC)
+
+3. **BREAST CANCER PN STAGING WITH DEEP LEARNING**
+    Ioannis Pateras Agrogiannis, Konstantinos Evangelou et al.
+    [PDF](https://www.researchgate.net/profile/Miles-Howe-2/publication/335602947_Breast_Cancer_pN_Staging_with_Deep_Learning/links/5d6f918392851cacdb1f1493/Breast-Cancer-pN-Staging-with-Deep-Learning.pdf)
+    
+    [View on Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0-RaorMAAAAJ&citation_for_view=0-RaorMAAAAJ:d1gkVwhDpl0C)

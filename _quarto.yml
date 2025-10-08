@@ -14,6 +14,19 @@ website:
         text: About
       - href: publications.qmd
         text: Publications
+    right:
+      - icon: google
+        href: https://scholar.google.com/citations?user=0-RaorMAAAAJ&hl=en
+        aria-label: Google Scholar
+      - icon: github
+        href: https://github.com/dimimal
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/dimitris-mallios/
+        aria-label: LinkedIn
+      - icon: twitter-x
+        href: https://twitter.com/dimi_Mall
+        aria-label: Twitter
 
 format:
   html:
