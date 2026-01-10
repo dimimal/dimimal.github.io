@@ -1,5 +1,6 @@
 ---
 title: "Publications"
+description: "Academic publications and research papers by Dimitrios Mallios on deep learning, computer vision, medical imaging, and vehicle damage assessment."
 ---
 
 # Publications

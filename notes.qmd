@@ -1,7 +1,7 @@
 ---
 title: "Notes"
 author: "Dimitrios Mallios"
-description: "TODO: Notes"
+description: "Technical notes, insights, and thoughts on AI Engineering, deep learning, and software development."
 listing:
   contents: notes
   sort: "date desc"

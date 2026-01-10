@@ -1,10 +1,20 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Dimitrios Mallios"
-  description: "Dimitrio's Personal Website"
+  description: "Deep Learning Engineer specializing in Computer Vision, VLMs, and Agentic AI. Technical insights, research publications, and book reviews."
   site-url: https://dimimal.github.io
+  google-analytics: "G-QHMZ21P3LH"
+  favicon: images/D-letter.png
+  open-graph: true
+  twitter-card:
+    creator: "@dimi_Mall"
+    site: "@dimi_Mall"
+  search:
+    location: navbar
+    type: textbox
   navbar:
     logo: images/D-letter.png
     left:
@@ -12,6 +22,8 @@ website:
         text: Home
       - href: about.qmd
         text: About
+      - href: books.qmd
+        text: Books
       - href: publications.qmd
         text: Publications
     right:

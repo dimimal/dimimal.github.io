@@ -1,37 +1,130 @@
 ---
-title: "Dimitrios Mallios"
-title-block-style: none
-image: images/profile.jpg
-sidebar: false
-about:
-  template: trestles
-  links:
-    - icon: twitter-x
-      text: Twitter
-      href: https://x.com/dimi_Mall
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com/in/dimitris-mallios/
-    - icon: github
-      text: Github
-      href: https://github.com/dimimal
+title: "About Me"
+description: "About Dimitrios Mallios - Deep Learning Engineer with expertise in Computer Vision, VLMs, SLMs, and Agentic AI based in London, UK."
+page-layout: full
 ---
 
+::: {.about-container}
+
+::: {.about-header}
+::: {.about-profile}
+![Dimitrios Mallios](images/profile.jpg){.about-profile-img}
+:::
+
+::: {.about-intro}
 # Dimitrios Mallios
 
-London - UK
+::: {.about-location}
+📍 London, United Kingdom
+:::
 
-I am an experienced Deep Learning Engineer with focus on Computer Vision. My research interests are in VLMs and SLMs.
+::: {.about-bio}
+I am an experienced **Deep Learning Engineer** with a focus on **Computer Vision**. My research interests lie in Vision-Language Models (VLMs), Small Language Models (SLMs), and Agentic AI systems. I'm passionate about building intelligent, scalable solutions that bridge the gap between cutting-edge research and practical applications.
+:::
 
-<hr>
-## Education
+<!-- ::: {.about-social}
+[🐦 Twitter](https://twitter.com/dimi_Mall){.social-link}
+[💼 LinkedIn](https://linkedin.com/in/dimitris-mallios/){.social-link}
+[💻 GitHub](https://github.com/dimimal){.social-link}
+[🎓 Scholar](https://scholar.google.com/citations?user=0-RaorMAAAAJ&hl=en){.social-link}
+::: -->
 
-### University of Thessaly {style="margin-top: 1em;"}
-**Degree:** 5 year Diploma (5year MEng - 300ECTS) - Computer Engineering  
-**Grade:** Distinction  
-**Graduation:** July 2018
+:::
+:::
 
-### University of Southampton {style="margin-top: 1.5em;"}
-**Degree:** MSc in Artificial Intelligence  
-**Grade:** Distinction  
-**Graduation:** October 2020
+::: {.about-content}
+
+::: {.about-section}
+## 🎓 Education
+
+::: {.education-grid}
+
+::: {.education-card}
+### University of Southampton
+::: {.degree-info}
+**MSc in Artificial Intelligence**
+
+- **Grade:** Distinction
+- **Graduated:** October 2020
+- **Focus:** Machine Learning, Computer Vision, Natural Language Processing
+:::
+:::
+
+::: {.education-card}
+### University of Thessaly
+::: {.degree-info}
+**5-Year MEng in Computer Engineering**
+
+- **Grade:** Distinction
+- **Graduated:** July 2018
+- **Credits:** 300 ECTS
+- **Specialization:** Software Engineering & AI
+:::
+:::
+
+:::
+:::
+
+::: {.about-section}
+## 💼 Expertise
+
+::: {.expertise-grid}
+
+::: {.expertise-item}
+### Computer Vision
+Deep learning architectures for image analysis, object detection, segmentation, and damage assessment systems
+:::
+
+::: {.expertise-item}
+### Vision-Language Models
+Multimodal AI systems combining visual and textual understanding for advanced reasoning tasks
+:::
+
+::: {.expertise-item}
+### Agentic AI
+Autonomous intelligent agents capable of planning, reasoning, and executing complex tasks
+:::
+
+::: {.expertise-item}
+### Deep Learning Engineering
+Scalable ML systems, model optimization, deployment pipelines, and production infrastructure
+:::
+
+:::
+:::
+
+::: {.about-section}
+## 🛠️ Technical Skills
+
+::: {.skills-container}
+
+::: {.skill-category}
+**AI/ML Frameworks**
+
+PyTorch • TensorFlow • Keras • Hugging Face • OpenCV
+:::
+
+::: {.skill-category}
+**Programming**
+
+Python • C++ • CUDA • Git • Linux
+:::
+
+::: {.skill-category}
+**MLOps & Cloud**
+
+Docker • AWS • Azure • Model Deployment • CI/CD
+:::
+
+::: {.skill-category}
+**Research Areas**
+
+Computer Vision • VLMs • Medical Imaging • Object Detection
+:::
+
+:::
+:::
+
+:::
+
+:::

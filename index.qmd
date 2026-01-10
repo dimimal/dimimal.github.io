@@ -1,9 +1,65 @@
 ---
 title: "Dimitrios Mallios"
+description: "Personal website of Dimitrios Mallios, Deep Learning Engineer specializing in Computer Vision, VLMs, and Agentic AI. Explore technical insights, publications, and book reviews."
 ---
 
-<div style="text-align: center; margin-bottom: 1em;">
-  <images src="images/D-letter.png" alt="Logo" style="width: 100px; height: auto;">
-</div>
+::: {.hero-section}
 
-This is the Home Page about my personal details, thoughts, blogs and notes about AI Engineering.
+::: {.hero-content}
+
+::: {.hero-text}
+# Dimitrios Mallios
+
+### Deep Learning Engineer
+
+Specializing in Computer Vision, VLMs, and Agentic AI. Passionate about building intelligent systems that solve real-world problems.
+
+::: {.hero-links}
+[Learn More About Me](about.qmd){.btn-primary} [View Publications](publications.qmd){.btn-secondary}
+:::
+
+:::
+
+::: {.hero-image}
+![Dimitrios Mallios - Deep Learning Engineer](images/profile.jpg){.profile-image}
+:::
+
+:::
+
+:::
+
+::: {.home-content}
+
+## Welcome to My Digital Space
+
+This is where I share my journey in AI Engineering, from cutting-edge research in computer vision to practical insights on building scalable deep learning systems. Explore my technical book reviews, academic publications, and thoughts on the latest developments in artificial intelligence.
+
+::: {.features-grid}
+
+::: {.feature-card}
+### 📚 Technical Book Reviews
+
+In-depth analysis of software engineering and AI literature that has shaped my approach to development.
+
+[Explore Books →](books.qmd)
+:::
+
+::: {.feature-card}
+### 🔬 Research Publications
+
+Academic papers on computer vision, medical imaging, and vehicle damage assessment using deep learning.
+
+[View Publications →](publications.qmd)
+:::
+
+::: {.feature-card}
+### 💭 Technical Notes
+
+Insights, tutorials, and thoughts on AI engineering, deep learning, and software development practices.
+
+[Read Notes →](notes.qmd)
+:::
+
+:::
+
+:::
