@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "About"
 description: "About Dimitrios Mallios - Deep Learning Engineer with expertise in Computer Vision, VLMs, SLMs, and Agentic AI based in London, UK."
 page-layout: full
 ---
@@ -8,7 +8,7 @@ page-layout: full
 
 ::: {.about-header}
 ::: {.about-profile}
-![Dimitrios Mallios](images/profile.jpg){.about-profile-img}
+![Dimitrios Mallios](images/profile.jpg){.about-profile-img style="border-radius: 0;"}
 :::
 
 ::: {.about-intro}
@@ -19,7 +19,13 @@ page-layout: full
 :::
 
 ::: {.about-bio}
-I am an experienced **Deep Learning Engineer** with a focus on **Computer Vision**. My research interests lie in Vision-Language Models (VLMs), Small Language Models (SLMs), and Agentic AI systems. I'm passionate about building intelligent, scalable solutions that bridge the gap between cutting-edge research and practical applications.
+Dimitrios Mallios is a Machine Learning Engineer. He has a MEng in Computer Engineering and an MSc in Artificial Intelligence. 
+
+He has built AI applications in the industry and academia spanning from computer vision and reccomendation systems to LLMs, Visual LLMS and agents. His main focus is to incubate new ideas and shape them into a product. He has published a variety number of papers and worked with open source projects.  
+
+In his free time he loves reading about AI evolution and alignment with humans.
+
+Connect with him on [LinkedIn]() and [X](). 
 :::
 
 <!-- ::: {.about-social}
@@ -33,37 +39,6 @@ I am an experienced **Deep Learning Engineer** with a focus on **Computer Vision
 :::
 
 ::: {.about-content}
-
-::: {.about-section}
-## 🎓 Education
-
-::: {.education-grid}
-
-::: {.education-card}
-### University of Southampton
-::: {.degree-info}
-**MSc in Artificial Intelligence**
-
-- **Grade:** Distinction
-- **Graduated:** October 2020
-- **Focus:** Machine Learning, Computer Vision, Natural Language Processing
-:::
-:::
-
-::: {.education-card}
-### University of Thessaly
-::: {.degree-info}
-**5-Year MEng in Computer Engineering**
-
-- **Grade:** Distinction
-- **Graduated:** July 2018
-- **Credits:** 300 ECTS
-- **Specialization:** Software Engineering & AI
-:::
-:::
-
-:::
-:::
 
 ::: {.about-section}
 ## 💼 Expertise
