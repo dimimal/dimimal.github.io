@@ -46,8 +46,6 @@ format:
       - flatly
     css: styles.css
     toc: true
-    # Custom color palette
-    # You can further customize in styles.css
 
 
 

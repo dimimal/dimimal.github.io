@@ -165,8 +165,7 @@
     font-size: 1.1rem;
   }
 
-  .book-author,
-  .book-rating {
+  .book-author {
     font-size: 0.9rem;
   }
 
@@ -178,10 +177,8 @@
     font-size: 0.8rem;
   }
 
-  .category,
-  .reading-status {
+  .category {
     font-size: 0.8rem;
     padding: 0.25rem 0.6rem;
   }
-}
 }
