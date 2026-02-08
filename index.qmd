@@ -10,7 +10,7 @@ description: "My personnal website, and blog. Explore technical insights, public
 ::: {.hero-text}
 # Dimitrios Mallios
 
-### Deep Learning Engineer
+### AI Engineer
 
 Specializing in Computer Vision, VLMs, and Agentic AI. Building intelligent systems that solve real-world problems.
 

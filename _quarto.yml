@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Dimitrios Mallios"
-  description: "Deep Learning Engineer specializing in Computer Vision, Model Compression, and Agentic AI on Edge. Technical insights, research publications, and book reviews."
+  description: "AI Engineer specializing in Computer Vision, Model Compression, and Agentic AI on Edge. Technical insights, research publications, and book reviews."
   site-url: https://dimimal.github.io
   google-analytics: "G-QHMZ21P3LH"
   favicon: images/D-letter.png
