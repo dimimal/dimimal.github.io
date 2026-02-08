@@ -1,17 +1,17 @@
 /* Book Section Custom Properties */
 :root {
-  --book-border-color: #dddddd;
-  --book-bg: #ffffff;
-  --book-shadow-hover: rgba(0, 0, 0, 0.1);
-  --book-title-color: #2c3e50;
-  --book-subtitle-color: #666666;
-  --book-author-color: #444444;
-  --book-rating-color: #f1c40f;
-  --book-description-color: #666666;
-  --category-bg: #f0f2f5;
-  --category-text: #444444;
-  --status-bg: #e8f5e9;
-  --status-text: #2e7d32;
+  --book-border-color: #3a3a3a;
+  --book-bg: #2a2a2a;
+  --book-shadow-hover: rgba(0, 0, 0, 0.5);
+  --book-title-color: #ffffff;
+  --book-subtitle-color: #f0f0f0;
+  --book-author-color: #f0f0f0;
+  --book-rating-color: #ffd700;
+  --book-description-color: #f0f0f0;
+  --category-bg: #3a3a3a;
+  --category-text: #f0f0f0;
+  --status-bg: #2d4a2d;
+  --status-text: #7dd87d;
   --book-cover-width: 200px;
 }
 

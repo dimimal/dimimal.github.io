@@ -19,87 +19,31 @@ page-layout: full
 :::
 
 ::: {.about-bio}
-Dimitrios Mallios is a Machine Learning Engineer. He has a MEng in Computer Engineering and an MSc in Artificial Intelligence. 
+Hi, I’m Dimitrios, and this is my personal space.
 
-He has built AI applications in the industry and academia spanning from computer vision and reccomendation systems to LLMs, Visual LLMS and agents. His main focus is to incubate new ideas and shape them into a product. He has published a variety number of papers and worked with open source projects.  
+I’m a Machine Learning Engineer with a background in Computer Engineering (MEng) and Artificial Intelligence (MSc). I’ve built AI applications across both industry and academia, working on various AI fields, from computer vision to large language models, vision-language models, autonomous agents and model compression.
 
-In his free time he loves reading about AI evolution and alignment with humans.
+What excites me most is incubating new ideas and shaping them into real products. Along the way, I’ve published several research papers and contributed to open-source projects.
 
-Connect with him on [LinkedIn]() and [X](). 
+At the moment i work at Applied Sciences Group in Microsoft re-shaping the windows platform bringing to users the AI they need to be productive.
+
+Connect with me on [LinkedIn](https://linkedin.com/in/dimitris-mallios) and [X](https://twitter.com/dimi_Mall). 
 :::
-
-<!-- ::: {.about-social}
-[🐦 Twitter](https://twitter.com/dimi_Mall){.social-link}
-[💼 LinkedIn](https://linkedin.com/in/dimitris-mallios/){.social-link}
-[💻 GitHub](https://github.com/dimimal){.social-link}
-[🎓 Scholar](https://scholar.google.com/citations?user=0-RaorMAAAAJ&hl=en){.social-link}
-::: -->
 
 :::
 :::
 
 ::: {.about-content}
 
-::: {.about-section}
-## 💼 Expertise
-
-::: {.expertise-grid}
-
-::: {.expertise-item}
-### Computer Vision
-Deep learning architectures for image analysis, object detection, segmentation, and damage assessment systems
-:::
-
-::: {.expertise-item}
-### Vision-Language Models
-Multimodal AI systems combining visual and textual understanding for advanced reasoning tasks
-:::
-
-::: {.expertise-item}
-### Agentic AI
-Autonomous intelligent agents capable of planning, reasoning, and executing complex tasks
-:::
-
-::: {.expertise-item}
-### Deep Learning Engineering
-Scalable ML systems, model optimization, deployment pipelines, and production infrastructure
-:::
-
-:::
-:::
-
-::: {.about-section}
-## 🛠️ Technical Skills
-
-::: {.skills-container}
+<!-- ::: {.about-section}
+## Research Areas -->
 
 ::: {.skill-category}
-**AI/ML Frameworks**
-
-PyTorch • TensorFlow • Keras • Hugging Face • OpenCV
+Computer Vision • Model Compression • VLMs • Medical Imaging • Object Detection
 :::
 
-::: {.skill-category}
-**Programming**
-
-Python • C++ • CUDA • Git • Linux
-:::
-
-::: {.skill-category}
-**MLOps & Cloud**
-
-Docker • AWS • Azure • Model Deployment • CI/CD
-:::
-
-::: {.skill-category}
-**Research Areas**
-
-Computer Vision • VLMs • Medical Imaging • Object Detection
-:::
-
-:::
-:::
+<!-- :::
 
 :::
 
-:::
+::: -->

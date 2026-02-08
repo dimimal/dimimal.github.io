@@ -1,6 +1,6 @@
 ---
 title: "Dimitrios Mallios"
-description: "Personal website of Dimitrios Mallios, Deep Learning Engineer specializing in Computer Vision, VLMs, and Agentic AI. Explore technical insights, publications, and book reviews."
+description: "My personnal website, and blog. Explore technical insights, publications and more about me."
 ---
 
 ::: {.hero-section}
@@ -12,7 +12,7 @@ description: "Personal website of Dimitrios Mallios, Deep Learning Engineer spec
 
 ### Deep Learning Engineer
 
-Specializing in Computer Vision, VLMs, and Agentic AI. Passionate about building intelligent systems that solve real-world problems.
+Specializing in Computer Vision, VLMs, and Agentic AI. Building intelligent systems that solve real-world problems.
 
 ::: {.hero-links}
 [Learn More About Me](about.qmd){.btn-primary} [View Publications](publications.qmd){.btn-secondary}
@@ -32,33 +32,33 @@ Specializing in Computer Vision, VLMs, and Agentic AI. Passionate about building
 
 ## Welcome to My Digital Space
 
-This is where I share my journey in AI Engineering, from cutting-edge research in computer vision to practical insights on building scalable deep learning systems. Explore my technical book reviews, academic publications, and thoughts on the latest developments in artificial intelligence.
+This is where I share my journey in AI Engineering, from cutting-edge research in AI to practical insights on building scalable AI systems. 
 
 ::: {.features-grid}
 
-::: {.feature-card}
+<!-- ::: {.feature-card}
 ### 📚 Technical Book Reviews
 
 In-depth analysis of software engineering and AI literature that has shaped my approach to development.
 
 [Explore Books →](books.qmd)
-:::
+::: -->
 
 ::: {.feature-card}
 ### 🔬 Research Publications
 
-Academic papers on computer vision, medical imaging, and vehicle damage assessment using deep learning.
+My publications over the years, to get a more updated view, please check my page at Google Scholar.
 
 [View Publications →](publications.qmd)
 :::
 
-::: {.feature-card}
+<!-- ::: {.feature-card}
 ### 💭 Technical Notes
 
 Insights, tutorials, and thoughts on AI engineering, deep learning, and software development practices.
 
 [Read Notes →](notes.qmd)
-:::
+::: -->
 
 :::
 

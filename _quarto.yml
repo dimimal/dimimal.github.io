@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Dimitrios Mallios"
-  description: "Deep Learning Engineer specializing in Computer Vision, VLMs, and Agentic AI. Technical insights, research publications, and book reviews."
+  description: "Deep Learning Engineer specializing in Computer Vision, Model Compression, and Agentic AI on Edge. Technical insights, research publications, and book reviews."
   site-url: https://dimimal.github.io
   google-analytics: "G-QHMZ21P3LH"
   favicon: images/D-letter.png
@@ -22,8 +22,8 @@ website:
         text: Home
       - href: about.qmd
         text: About
-      - href: books.qmd
-        text: Books
+      # - href: books.qmd
+      #   text: Books
       - href: publications.qmd
         text: Publications
     right:
@@ -43,7 +43,7 @@ website:
 format:
   html:
     theme:
-      - flatly
+      - slate
     css: styles.css
     toc: true
 

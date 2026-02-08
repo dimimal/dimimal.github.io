@@ -1,11 +1,11 @@
 /* CSS Custom Properties for Theme Consistency */
 :root {
-  --primary-color: #005c97;
-  --secondary-color: #363795;
-  --background-color: #f8f9fa;
-  --card-background: #ffffff;
-  --text-color: #212529;
-  --shadow-color: rgba(54, 55, 149, 0.08);
+  --primary-color: #4a9eff;
+  --secondary-color: #7c7cff;
+  --background-color: #1a1a1a;
+  --card-background: #2a2a2a;
+  --text-color: #e0e0e0;
+  --shadow-color: rgba(0, 0, 0, 0.3);
   --border-radius: 12px;
   --transition-speed: 0.2s;
 }
@@ -13,6 +13,19 @@
 /* Base Styles */
 body {
   background-color: var(--background-color);
+  color: var(--text-color);
+}
+
+/* Caption and figure text */
+figcaption, .caption, .figure-caption {
+  color: #ffffff !important;
+  text-align: center;
+  font-size: 0.9rem;
+  margin-top: 0.5rem;
+}
+
+p, li, span {
+  color: var(--text-color);
 }
 
 .navbar {
@@ -188,7 +201,7 @@ section, .card {
 }
 
 .feature-card p {
-  color: #6c757d;
+  color: #ffffff;
   line-height: 1.6;
   margin-bottom: 1.5rem;
 }
@@ -250,7 +263,7 @@ section, .card {
 
 .about-location {
   font-size: 1.1rem;
-  color: #6c757d;
+  color: #ffffff;
   margin-bottom: 1.5rem;
   font-weight: 500;
 }
@@ -352,7 +365,7 @@ section, .card {
 
 .degree-info li {
   padding: 0.3rem 0;
-  color: #495057;
+  color: #ffffff;
 }
 
 /* Expertise Grid */
@@ -415,7 +428,7 @@ section, .card {
 }
 
 .skill-category p {
-  color: #495057;
+  color: #ffffff;
   line-height: 1.8;
   margin: 0;
 }
