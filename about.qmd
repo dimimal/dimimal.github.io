@@ -1,6 +1,6 @@
 ---
 title: "About"
-description: "About Dimitrios Mallios - Deep Learning Engineer with expertise in Computer Vision, VLMs, SLMs, and Agentic AI based in London, UK."
+description: "About Dimitrios Mallios - AI Engineer with expertise in Computer Vision, VLMs, SLMs, Model Compression and Agentic AI"
 page-layout: full
 ---
 
@@ -8,7 +8,7 @@ page-layout: full
 
 ::: {.about-header}
 ::: {.about-profile}
-![Dimitrios Mallios](images/profile_2.png){.about-profile-img style="border-radius: 0;"}
+![Dimitrios Mallios](images/profile_2.jpg){.about-profile-img style="border-radius: 0;"}
 :::
 
 ::: {.about-intro}
