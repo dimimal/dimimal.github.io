@@ -33,17 +33,4 @@ Connect with me on [LinkedIn](https://linkedin.com/in/dimitris-mallios) and [X](
 :::
 :::
 
-::: {.about-content}
-
-<!-- ::: {.about-section}
-## Research Areas -->
-
-::: {.skill-category}
-Computer Vision • Model Compression • VLMs • Medical Imaging • Object Detection
 :::
-
-<!-- :::
-
-:::
-
-::: -->
