@@ -25,7 +25,7 @@ I’m a Machine Learning Engineer with a background in Computer Engineering (MEn
 
 What excites me most is incubating new ideas and shaping them into real products. Along the way, I’ve published several research papers and contributed to open-source projects.
 
-At the moment i work at Applied Sciences Group in Microsoft re-shaping the windows platform bringing to users the AI they need to be productive.
+At the moment I work at Applied Sciences Group in Microsoft re-shaping the windows platform bringing to users the AI they need to be productive.
 
 Connect with me on [LinkedIn](https://linkedin.com/in/dimitris-mallios) and [X](https://twitter.com/dimi_Mall). 
 :::
