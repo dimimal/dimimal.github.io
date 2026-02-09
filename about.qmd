@@ -8,7 +8,7 @@ page-layout: full
 
 ::: {.about-header}
 ::: {.about-profile}
-![Dimitrios Mallios](images/profile_2.jpg){.about-profile-img style="border-radius: 0;"}
+![Dimitrios Mallios](images/profile_2.png){.about-profile-img style="border-radius: 0;"}
 :::
 
 ::: {.about-intro}
