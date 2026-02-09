@@ -1,17 +1,24 @@
 [
   {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "Dimitrios Mallios",
-    "section": "Education",
-    "text": "Education\n\nUniversity of Thessaly\nDegree: 5 year Diploma (5year MEng - 300ECTS) - Computer Engineering\nGrade: Distinction\nGraduation: July 2018\n\n\nUniversity of Southampton\nDegree: MSc in Artificial Intelligence\nGrade: Distinction\nGraduation: October 2020"
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Dimitrios Mallios\n\n\n\n\nDimitrios Mallios\n\n📍 London, United Kingdom\n\n\nHi, I’m Dimitrios, and this is my personal space.\nI’m a Machine Learning Engineer with a background in Computer Engineering (MEng) and Artificial Intelligence (MSc). I’ve built AI applications across both industry and academia, working on various AI fields, from computer vision to large language models, vision-language models, autonomous agents and model compression.\nWhat excites me most is incubating new ideas and shaping them into real products. Along the way, I’ve published several research papers and contributed to open-source projects.\nAt the moment i work at Applied Sciences Group in Microsoft re-shaping the windows platform bringing to users the AI they need to be productive.\nConnect with me on LinkedIn and X.\n\n\n\n\n\n\nComputer Vision • Model Compression • VLMs • Medical Imaging • Object Detection"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Dimitrios Mallios",
     "section": "",
-    "text": "This is the Home Page about my personal details, thoughts, blogs and notes about AI Engineering."
+    "text": "Specializing in Computer Vision, VLMs, and Agentic AI. Building intelligent systems that solve real-world problems.\n\nLearn More About Me View Publications\n\n\n\n\n\n\n\nDimitrios Mallios - Deep Learning Engineer"
+  },
+  {
+    "objectID": "index.html#welcome-to-my-digital-space",
+    "href": "index.html#welcome-to-my-digital-space",
+    "title": "Dimitrios Mallios",
+    "section": "Welcome to My Digital Space",
+    "text": "Welcome to My Digital Space\nThis is where I share my journey in AI Engineering, from cutting-edge research in AI to practical insights on building scalable AI systems.\n\n\n\n🔬 Research Publications\nMy publications over the years, to get a more updated view, please check my page at Google Scholar.\nView Publications →"
   },
   {
     "objectID": "notes.html",
